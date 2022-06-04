@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18489719005",
+    "project_id": "crm-erp-solution",
+    "storage_bucket": "crm-erp-solution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18489719005:android:c8909a8e32e7747fa10334",
+        "android_client_info": {
+          "package_name": "com.qualida.staffapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18489719005-ui2912enen6sjoorlbviqvkq2ko1s4ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtH-JnOKNgtMTqEmoIPaiod1OhaVHHucc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18489719005-ui2912enen6sjoorlbviqvkq2ko1s4ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
